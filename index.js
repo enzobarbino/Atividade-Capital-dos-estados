@@ -1,4 +1,10 @@
-//Para salvar o projeto no GitHub deve se seguir os seguintes comandos: 'Git Init', esse comando irá criar uma pasta fantasma
+//Para salvar o projeto no GitHub deve se seguir os seguintes comandos: 
+//'Git Init', cria uma pasta oculta que irá guardar todas as alterações do seu código.
+//'Git Status', informa qual é o atual status dos seus arquivos.
+//'Git Add .' adiciona todos os arquivo na caixinha para ser commitado.
+//'Git commit -m "nome do arquivo"', cria uma etiqueta com suas informações para ser enviado ao servidor.
+//Quando todos esses comandos forem executados, com êxito, você irá criar um repositório no GitHub.
+//Após o repositório ser criado, o próprio GitHub irá disponibilizar os comandos para a adição dos arquivos no Repositório.
 
 const http = require("http");
 const porta = 3003;
