@@ -1,4 +1,4 @@
-//Para salvar o projeto no GitHub deve se seguir os seguintes comandos: 
+//Para salvar o projeto no GitHub deve se seguir os seguintes passos: 
 //'Git Init', cria uma pasta oculta que irá guardar todas as alterações do seu código.
 //'Git Status', informa qual é o atual status dos seus arquivos.
 //'Git Add .' adiciona todos os arquivo na caixinha para ser commitado.
